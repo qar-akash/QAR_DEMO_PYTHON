@@ -1,4 +1,4 @@
-from features.pages.BasePage import BasePage, custom_xpath
+from features.pages.BasePage import BasePage
 
 
 class LoginPage(BasePage):
